@@ -1,5 +1,5 @@
 Gemini API implemented into Sliver C2
 
-If you still don't pay for an API key, you can generate a free API key from Google AI Studio - https://aistudio.google.com/
+Free API key generation - https://aistudio.google.com/
 
 <img width="1345" height="775" alt="image" src="https://github.com/user-attachments/assets/24f31d8d-a186-45aa-9236-915cf2a8a549" />
