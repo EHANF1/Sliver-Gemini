@@ -1,4 +1,4 @@
-Google AI studio API implemented into Sliver C2
+Gemini API implemented into Sliver C2
 
 If you still don't pay for an API key, you can generate a free API key from Google AI Studio - https://aistudio.google.com/
 
